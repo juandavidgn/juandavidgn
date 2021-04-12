@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Open Electronics
-- 📫 How to reach me Sendme a pm
+- 📫 How to reach me Send me a pm
 
 <!---
 juandavidgn/juandavidgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
